@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("branch test");
         System.out.println("github");
+        System.out.println("hp-pc");
     }
 }
